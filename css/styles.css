@@ -11320,7 +11320,26 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color: #000000;
+}
+
+.social-icons .social-icons-facebook {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 3.5rem;
+  width: 3.5rem;
+  background-color: #495057;
+  color: #fff;
+  border-radius: 100%;
+  font-size: 1.5rem;
+  margin-right: 1.5rem;
+}
+.social-icons .social-icons-facebook:last-child {
+  margin-right: 0;
+}
+.social-icons .social-icons-facebook:hover {
+  background-color: #000000;
 }
 
 .dev-icons {
