@@ -71,7 +71,7 @@ body {
 }
 
 .img-radius {
-  border-radius: 25px;
+  border-radius: 5px;
 }
 
 hr {
@@ -11315,6 +11315,7 @@ p.lead {
   border-radius: 100%;
   font-size: 1.5rem;
   margin-right: 1.5rem;
+  text-decoration: none;
 }
 .social-icons .social-icon:last-child {
   margin-right: 0;
@@ -11334,6 +11335,7 @@ p.lead {
   border-radius: 100%;
   font-size: 1.5rem;
   margin-right: 1.5rem;
+  text-decoration: none;
 }
 .social-icons .social-icons-facebook:last-child {
   margin-right: 0;
